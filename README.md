@@ -5,6 +5,8 @@ Everyone should use `sl` > &lt;
 
 ![demo.jpg](https://i.imgur.com/gFEgB8m.jpg)
 
+[GIF on Imgur](https://i.imgur.com/F2HpMqy.gif)
+
 ## Usage
 
 ```sh
