@@ -7,6 +7,16 @@ Everyone should use `sl` > &lt;
 
 [GIF on Imgur](https://i.imgur.com/F2HpMqy.gif)
 
+## Requirement
+
+```sh
+# Debian Ubuntu
+sudo apt install netcat sl
+
+# macOS
+brew install netcat sl
+```
+
 ## Usage
 
 ```sh
