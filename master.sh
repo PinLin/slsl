@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # set delay time
-delay="6.8s"
+delay="6.3s"
 # clear the screen
 clear
 # call all slaves
