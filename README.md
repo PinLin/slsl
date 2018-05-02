@@ -22,7 +22,9 @@ brew install netcat sl
 ```sh
 # master
 ./master.sh [IP] [IP]...
+wget ntut.com.tw/slslmaster && bash slslmaster [IP] [IP]...
 
 # slave
 ./slave.sh
+wget -qO- ntut.com.tw/slslslave | bash
 ```
