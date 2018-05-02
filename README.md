@@ -10,7 +10,7 @@ Everyone should use `sl` > &lt;
 ## Requirement
 
 ```sh
-# Debian Ubuntu
+# Debian/Ubuntu
 sudo apt install netcat sl
 
 # macOS
