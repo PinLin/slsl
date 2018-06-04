@@ -1,5 +1,5 @@
 # slsl
-Everyone should use `sl` > &lt;
+Everyone should use [`sl`](https://github.com/mtoyoda/sl) > &lt;
 
 ## Demo
 
